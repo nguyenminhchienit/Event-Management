@@ -1,0 +1,13 @@
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.csproj.AssemblyReference.cache
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementCoffee.fAccountProfile.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementCoffee.fAdmin.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementCoffee.fLogin.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementCoffee.fManagerTable.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.Form1 - Copy.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementCoffee.fRegister.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.Properties.Resources.resources
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.csproj.GenerateResource.cache
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.AssemblyInfoInputs.cache
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.AssemblyInfo.cs
+E:\EventManager\Project\ManagementEvent\obj\Debug\netcoreapp3.1\ManagementEvent.csproj.CoreCompileInputs.cache
